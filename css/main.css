@@ -10,15 +10,13 @@ html {
 .grains {
   margin: 0;
   padding: 0;
-
   list-style-type: none;
 }
 
 .grains li {
-
-	display: block;
-	margin-bottom: 2rem;
-	clear: both;
+  display: block;
+  margin-bottom: 2rem;
+  clear: both;
 }
 
 .grains img {
@@ -28,11 +26,11 @@ html {
 }
 
 .grains h2 {
-margin: 0;
-font-size: 1rem;
+  margin: 0;
+  font-size: 1rem;
 }
 
 .grains p {
-margin: 0;
-font-style: italic;
+  margin: 0;
+  font-style: italic;
 }
